@@ -2,14 +2,14 @@
 
 Development Environment:
 
-You will need the following applications installed on your local development environment:
-IIS
-Visual Studio
-Visual Studio Code or rquivalent (optional)
-SQL Server
-SQL Server Management Studio
-Git
-Git Extension or equivalent (optional version control)
+You will need the following applications installed on your local development environment:  
+IIS  
+Visual Studio  
+Visual Studio Code or rquivalent (optional)  
+SQL Server  
+SQL Server Management Studio  
+Git  
+Git Extension or equivalent (optional version control)  
 
 
 Coding Standards:
