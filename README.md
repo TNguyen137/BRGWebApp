@@ -12,7 +12,7 @@ Git
 Git Extension or equivalent (optional version control)
 
 
-Coding Standards
+Coding Standards:
 
 Branches should be named feature/ or bugfix/ followed by the Trello story number and then your branch name in Kebab Case. Everything should be lower case. Examples: feature/tfa-001-start-application-builds or bugfix/tfa-002-fix-app-blowing-up
 
