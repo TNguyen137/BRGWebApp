@@ -1,5 +1,17 @@
 # BRGWebApp
 
+Development Environment:
+
+You will need the following applications installed on your local development environment:
+IIS
+Visual Studio
+Visual Studio Code or rquivalent (optional)
+SQL Server
+SQL Server Management Studio
+Git
+Git Extension or equivalent (optional version control)
+
+
 Coding Standards
 
 Branches should be named feature/ or bugfix/ followed by the Trello story number and then your branch name in Kebab Case. Everything should be lower case. Examples: feature/tfa-001-start-application-builds or bugfix/tfa-002-fix-app-blowing-up
