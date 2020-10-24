@@ -1,0 +1,6 @@
+C:\Users\lilTjeezy\source\repos\BRGWebApp\obj\Debug\BRGWebApp.njsprojAssemblyReference.cache
+C:\Users\lilTjeezy\source\repos\BRGWebApp\obj\Debug\BRGWebApp.njsproj.CoreCompileInputs.cache
+C:\Users\lilTjeezy\source\repos\BRGWebApp\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\lilTjeezy\Desktop\BRGWebApp\BRGWebApp\obj\Debug\BRGWebApp.njsprojAssemblyReference.cache
+C:\Users\lilTjeezy\Desktop\BRGWebApp\BRGWebApp\obj\Debug\BRGWebApp.njsproj.CoreCompileInputs.cache
+C:\Users\lilTjeezy\Desktop\BRGWebApp\BRGWebApp\bin\Microsoft.NodejsTools.WebRole.dll

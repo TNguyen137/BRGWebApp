@@ -1,0 +1,30 @@
+{
+  "name": "brgweb-app",
+  "version": "0.0.0",
+  "description": "BRGWebApp",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "edge": "^7.10.1",
+    "express": "~4.17.1",
+    "mssql": "^6.2.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.5",
+    "path": "~0.12.7",
+    "react": "^16.14.0",
+    "react-dom": "~16.13.1",
+    "tedious": "^9.2.1",
+    "ts-loader": "~7.0.1",
+    "typescript": "~3.8.3",
+    "webpack": "~4.42.1",
+    "webpack-cli": "~3.3.11"
+  },
+  "scripts": {
+    "build": "webpack-cli app.tsx --config webpack-config.js",
+    "start": "nodemon server.js"
+  }
+}
